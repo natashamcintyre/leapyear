@@ -29,3 +29,5 @@ I focused on using testing to drive the code, which I think I did okay, although
 3. I also realised that I never did any git commits (which I would like to aim to do just before every new test, or after if that is more appropriate)
 
 4. Should I be including more pseudocode in my .rb file?
+
+Many thanks in advance for reviewing my process.
